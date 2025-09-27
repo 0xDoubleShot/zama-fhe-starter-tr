@@ -29,3 +29,6 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome">
   </a>
 </p>
+## Community Resources
+
+- [TR] Zama FHE Starter — FHEVM (Solidity/Hardhat) + Concrete-ML (Python): https://github.com/0xDoubleShot/zama-fhe-starter-tr
