@@ -32,3 +32,7 @@
 ## Community Resources
 
 - [TR] Zama FHE Starter — FHEVM (Solidity/Hardhat) + Concrete-ML (Python): https://github.com/0xDoubleShot/zama-fhe-starter-tr
+
+### Community Resources
+
+- [Turkish Starter Kit: FHEVM + Concrete-ML](https://github.com/0xDoubleShot/zama-fhe-starter-tr) 🇹🇷
